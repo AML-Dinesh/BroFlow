@@ -1,6 +1,5 @@
 function LogoMinimized() {
-  const src = "/logo-small.png";
-  return <img src={src} alt="Minimized Logo" />;
+  return <h1 className="text-xl font-semibold text-white">BF</h1>;
 }
 
 export { LogoMinimized };
