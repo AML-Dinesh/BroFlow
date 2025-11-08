@@ -4,7 +4,7 @@
  <a href="https://www.skyvern.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="fern/images/skyvern_logo.png"/>
-    <img height="120" src="fern/images/skyvern_logo_blackbg.png"/>
+    <strong>BroFlow</strong>
   </picture>
  </a>
  <br />
